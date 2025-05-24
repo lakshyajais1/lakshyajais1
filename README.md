@@ -3,8 +3,8 @@
 - 👀 Intrigued by the ability of data analysis to tackle complex challenges and optimize processes  
 - 🌱 Expanding my skillset in Excel, Power BI, SQL, and Python  
 - 💞️ Open to collaborating on data/business analyst projects  
-- 📫 Reach me at abhinavghosh20@gmail.com | [LinkedIn](https://www.linkedin.com/in/abhinavgh/)  
-- ⚡ Former mechanical engineer who loves merging the physical and digital worlds  
+- 📫 Reach me at lakshyajaiswal163@gmail.com | [LinkedIn](https://www.linkedin.com/in/lakshya-jaiswal/)  
+- ⚡ Former   Computer Science engineer who loves merging the physical and digital worlds  
 - 😄 Pronouns: he/him
 
 <!--
