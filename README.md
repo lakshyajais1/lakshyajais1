@@ -1,23 +1,8 @@
-👋 Hello, I’m **Lakshya Jaiswal**, a highly motivated Data Analyst with a strong desire to learn and grow.  
+👋 Hi, I'm Lakshya Jaiswal — building 0-to-1 products at the intersection of growth, analytics, and AI.
 
-- 👀 Intrigued by the ability of data analysis to tackle complex challenges and optimize processes  
-- 🌱 Expanding my skillset in Excel, Power BI, SQL, and Python  
-- 💞️ Open to collaborating on data/business analyst projects  
-- 📫 Reach me at lakshyajaiswal163@gmail.com | [LinkedIn](https://www.linkedin.com/in/lakshya-jaiswal/)  
-- ⚡ Former   Computer Science engineer who loves merging the physical and digital worlds  
-- 😄 Pronouns: he/him
-
-<!--
-**lakshyajais1/lakshyajais1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Product Development Associate at NYX.Today — owning analytics, campaign management, and AI tooling
+- 🧠 CS @ MNNIT Allahabad ('25) — engineer-turned-product builder
+- 📊 Built an executive analytics platform unifying Google Ads, Meta, GA4, and Shopify into one source of truth
+- 🤖 AI-native: shipping faster with Claude, Claude Code, and AI-assisted prototyping
+- 📬 Reach me: [lakshyajaiswal163@gmail.com](mailto:lakshyajaiswal163@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lakshya-jaiswal/) 
+- 💬 Always up for conversations on product, growth analytics, and 0-to-1 building
